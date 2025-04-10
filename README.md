@@ -20,5 +20,5 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 # 📞 Contact
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/eldk412)](mailto:https://blog.naver.com/eldk412)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=blog.naver.com/eldk412)](mailto:blog.naver.com/eldk412)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:rlatngus1691@naver.com)
